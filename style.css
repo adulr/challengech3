@@ -1,5 +1,6 @@
 body {
-    background-image: url(assets/swirl_pattern.png);
+    background-color:#080808;
+    opacity:75;
 }
 
 #Container {
@@ -137,5 +138,14 @@ ul li .tbd {
 
 .topscore {
     margin-top: 25%;
+
 }
 
+
+@media (min-width: 768px){
+    .topcore{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    
+}
