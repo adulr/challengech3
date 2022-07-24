@@ -15,16 +15,19 @@
 
 .jumbotron h1{
     padding-top: 17rem;
+    color: #fff;
+    font-size: 4rem;
 }
 
 .jumbotron p{
     padding-top: 2rem;
     padding-bottom: 5rem ;
+    color: #fff;
 }
 
 .futer {
     padding-top: 19rem;
-    color : black;
+    color :  #fff;
 } 
 
 .rectangel {
@@ -110,5 +113,20 @@ ul li .tbd {
 #flex {
     display:flex;
     flex-direction: column;
+}
+
+.quote {
+    background-image: url(assets/top-score-bg.png);
+    background-size: cover;
+    margin: 0;
+    padding: 2px;
+   
+    background-repeat: no-repeat;
+    height: 870.26px;
+    color:white;
+}
+
+.topscore {
+    margin-top: 25%;
 }
 
