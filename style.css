@@ -1,3 +1,7 @@
+body {
+    background-image: url(assets/swirl_pattern.png);
+}
+
 #Container {
     width: 1442px;
     margin: auto;
