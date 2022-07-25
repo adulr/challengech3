@@ -149,3 +149,23 @@ ul li .tbd {
     }
     
 }
+
+.newslatter{
+    background-image: url(assets/newsletter.png);
+    background-size: cover;
+    margin: 0;
+    padding-top: 4rem;
+   
+    background-repeat: no-repeat;
+    /* height: 870.26px; */
+    color:white;
+}
+
+
+.email {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+}
+
