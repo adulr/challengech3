@@ -2,16 +2,7 @@ body {
     background-color:#080808;
     opacity:75;
 }
-body nav {
-height: 70px;
-width: 1443px;
-justify-content: center;
-top: -0.299957275390625px;
-border-radius: 0px;
-opacity: 70%;
 
-
-}
 #Container {
     width: 1442px;
     margin: auto;
@@ -60,7 +51,7 @@ opacity: 70%;
 }
 .container1 {
     flex:2;
-    text-align-last: left;
+    text-align-last: center;
     color:white;
     padding-top: 11rem;
     
@@ -68,7 +59,7 @@ opacity: 70%;
 }
 
 .corosel {
-    flex: 5;
+    flex: 4;
     padding: 3rem;
     margin:auto;
 
@@ -81,8 +72,8 @@ opacity: 70%;
     }
     
     .container1{
-
-        text-align-last: right;
+        flex-direction: column;
+        text-align-last:right;
     }
 
     
