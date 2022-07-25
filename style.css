@@ -12,6 +12,15 @@ body {
 #taskbar {
     padding-left: 7rem;
 }
+
+nav {
+    height: 70px;
+    width: 1443px;
+    justify-content: center;
+    top: -0.299957275390625px;
+    border-radius: 0px;
+    opacity: 75;
+}
 .jumbotron {
     text-align: center;
     background-image: url(assets/main-bg.jpg);
