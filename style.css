@@ -68,7 +68,7 @@ nav {
 }
 
 .corosel {
-    flex: 4;
+    flex: 2;
     padding: 3rem;
     margin:auto;
 
@@ -83,6 +83,9 @@ nav {
     .container1{
         flex-direction: column;
         text-align-last:right;
+    }
+    .corosel{
+        flex:4;    
     }
 
     
