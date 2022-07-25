@@ -2,7 +2,16 @@ body {
     background-color:#080808;
     opacity:75;
 }
+body nav {
+height: 75px;
+width: 1443px;
+left: 70px;
+top: -0.299957275390625px;
+border-radius: 0px;
+opacity: 70%;
 
+
+}
 #Container {
     width: 1442px;
     margin: auto;
