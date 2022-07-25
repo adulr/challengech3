@@ -5,7 +5,7 @@ body {
 body nav {
 height: 75px;
 width: 1443px;
-left: 70px;
+justify-content: center;
 top: -0.299957275390625px;
 border-radius: 0px;
 opacity: 70%;
